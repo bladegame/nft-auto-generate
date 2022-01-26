@@ -1,5 +1,5 @@
-output/images/*.png
-output/metadata/*
+#output/images/*.png
+#output/metadata/*
 
 gen.spec
 gen.exe
